@@ -1,5 +1,4 @@
 ## Hi there 👋
-![thumb-1920-1028034](https://github.com/user-attachments/assets/0e6ac09d-6e7a-419d-bdc5-7ea6f0b98927)
 
 <!--
 **navaniallama/navaniallama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
